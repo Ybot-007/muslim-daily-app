@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Muslim Daily</string>
+    <string name="notification_channel_prayer">Prayer reminders</string>
+</resources>

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "morning-1",
+    "category": "Morning",
+    "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ",
+    "transliteration": "Asbahna wa asbahal-mulku lillah",
+    "translation": "We have entered the morning and all dominion belongs to Allah.",
+    "repeatCount": 1
+  },
+  {
+    "id": "morning-2",
+    "category": "Morning",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "transliteration": "SubhanAllahi wa bihamdih",
+    "translation": "Glory and praise belong to Allah.",
+    "repeatCount": 100
+  },
+  {
+    "id": "evening-1",
+    "category": "Evening",
+    "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ",
+    "transliteration": "Amsayna wa amsal-mulku lillah",
+    "translation": "We have entered the evening and all dominion belongs to Allah.",
+    "repeatCount": 1
+  },
+  {
+    "id": "evening-2",
+    "category": "Evening",
+    "arabic": "اللَّهُمَّ بِكَ أَمْسَيْنَا وَبِكَ أَصْبَحْنَا",
+    "transliteration": "Allahumma bika amsayna wa bika asbahna",
+    "translation": "O Allah, by You we reach evening and by You we reach morning.",
+    "repeatCount": 1
+  },
+  {
+    "id": "after-prayer-1",
+    "category": "After prayer",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ",
+    "transliteration": "Astaghfirullah",
+    "translation": "I seek Allah’s forgiveness.",
+    "repeatCount": 3
+  },
+  {
+    "id": "after-prayer-2",
+    "category": "After prayer",
+    "arabic": "سُبْحَانَ اللَّهِ، الْحَمْدُ لِلَّهِ، اللَّهُ أَكْبَرُ",
+    "transliteration": "SubhanAllah, Alhamdulillah, Allahu Akbar",
+    "translation": "Glory be to Allah, praise be to Allah, Allah is the Greatest.",
+    "repeatCount": 33
+  },
+  {
+    "id": "sleep-1",
+    "category": "Sleep",
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "transliteration": "Bismika Allahumma amutu wa ahya",
+    "translation": "In Your name, O Allah, I die and I live.",
+    "repeatCount": 1
+  },
+  {
+    "id": "sleep-2",
+    "category": "Sleep",
+    "arabic": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+    "transliteration": "Allahumma qini adhābaka yawma tab‘athu ‘ibadak",
+    "translation": "O Allah, protect me from Your punishment on the Day You raise Your servants.",
+    "repeatCount": 3
+  }
+]

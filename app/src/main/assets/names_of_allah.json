@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1,
+    "arabic": "الله",
+    "transliteration": "Allah",
+    "meaning": "The One God",
+    "explanation": "Allah reminds the believer of Allah’s attribute: the one god."
+  },
+  {
+    "id": 2,
+    "arabic": "الرَّحْمَن",
+    "transliteration": "Ar-Rahman",
+    "meaning": "The Entirely Merciful",
+    "explanation": "Ar-Rahman reminds the believer of Allah’s attribute: the entirely merciful."
+  },
+  {
+    "id": 3,
+    "arabic": "الرَّحِيم",
+    "transliteration": "Ar-Rahim",
+    "meaning": "The Especially Merciful",
+    "explanation": "Ar-Rahim reminds the believer of Allah’s attribute: the especially merciful."
+  },
+  {
+    "id": 4,
+    "arabic": "الْمَلِك",
+    "transliteration": "Al-Malik",
+    "meaning": "The King",
+    "explanation": "Al-Malik reminds the believer of Allah’s attribute: the king."
+  },
+  {
+    "id": 5,
+    "arabic": "الْقُدُّوس",
+    "transliteration": "Al-Quddus",
+    "meaning": "The Most Holy",
+    "explanation": "Al-Quddus reminds the believer of Allah’s attribute: the most holy."
+  },
+  {
+    "id": 6,
+    "arabic": "السَّلَام",
+    "transliteration": "As-Salam",
+    "meaning": "The Source of Peace",
+    "explanation": "As-Salam reminds the believer of Allah’s attribute: the source of peace."
+  },
+  {
+    "id": 7,
+    "arabic": "الْمُؤْمِن",
+    "transliteration": "Al-Mu’min",
+    "meaning": "The Giver of Faith",
+    "explanation": "Al-Mu’min reminds the believer of Allah’s attribute: the giver of faith."
+  },
+  {
+    "id": 8,
+    "arabic": "الْمُهَيْمِن",
+    "transliteration": "Al-Muhaymin",
+    "meaning": "The Guardian",
+    "explanation": "Al-Muhaymin reminds the believer of Allah’s attribute: the guardian."
+  },
+  {
+    "id": 9,
+    "arabic": "الْعَزِيز",
+    "transliteration": "Al-Aziz",
+    "meaning": "The Almighty",
+    "explanation": "Al-Aziz reminds the believer of Allah’s attribute: the almighty."
+  },
+  {
+    "id": 10,
+    "arabic": "الْجَبَّار",
+    "transliteration": "Al-Jabbar",
+    "meaning": "The Compeller",
+    "explanation": "Al-Jabbar reminds the believer of Allah’s attribute: the compeller."
+  },
+  {
+    "id": 11,
+    "arabic": "الْمُتَكَبِّر",
+    "transliteration": "Al-Mutakabbir",
+    "meaning": "The Supreme",
+    "explanation": "Al-Mutakabbir reminds the believer of Allah’s attribute: the supreme."
+  },
+  {
+    "id": 12,
+    "arabic": "الْخَالِق",
+    "transliteration": "Al-Khaliq",
+    "meaning": "The Creator",
+    "explanation": "Al-Khaliq reminds the believer of Allah’s attribute: the creator."
+  },
+  {
+    "id": 13,
+    "arabic": "الْبَارِئ",
+    "transliteration": "Al-Bari",
+    "meaning": "The Originator",
+    "explanation": "Al-Bari reminds the believer of Allah’s attribute: the originator."
+  },
+  {
+    "id": 14,
+    "arabic": "الْمُصَوِّر",
+    "transliteration": "Al-Musawwir",
+    "meaning": "The Fashioner",
+    "explanation": "Al-Musawwir reminds the believer of Allah’s attribute: the fashioner."
+  },
+  {
+    "id": 15,
+    "arabic": "الْغَفَّار",
+    "transliteration": "Al-Ghaffar",
+    "meaning": "The Constant Forgiver",
+    "explanation": "Al-Ghaffar reminds the believer of Allah’s attribute: the constant forgiver."
+  },
+  {
+    "id": 16,
+    "arabic": "الْقَهَّار",
+    "transliteration": "Al-Qahhar",
+    "meaning": "The Subduer",
+    "explanation": "Al-Qahhar reminds the believer of Allah’s attribute: the subduer."
+  },
+  {
+    "id": 17,
+    "arabic": "الْوَهَّاب",
+    "transliteration": "Al-Wahhab",
+    "meaning": "The Bestower",
+    "explanation": "Al-Wahhab reminds the believer of Allah’s attribute: the bestower."
+  },
+  {
+    "id": 18,
+    "arabic": "الرَّزَّاق",
+    "transliteration": "Ar-Razzaq",
+    "meaning": "The Provider",
+    "explanation": "Ar-Razzaq reminds the believer of Allah’s attribute: the provider."
+  },
+  {
+    "id": 19,
+    "arabic": "الْفَتَّاح",
+    "transliteration": "Al-Fattah",
+    "meaning": "The Opener",
+    "explanation": "Al-Fattah reminds the believer of Allah’s attribute: the opener."
+  },
+  {
+    "id": 20,
+    "arabic": "الْعَلِيم",
+    "transliteration": "Al-Alim",
+    "meaning": "The All-Knowing",
+    "explanation": "Al-Alim reminds the believer of Allah’s attribute: the all-knowing."
+  },
+  {
+    "id": 21,
+    "arabic": "الْقَابِض",
+    "transliteration": "Al-Qabid",
+    "meaning": "The Withholder",
+    "explanation": "Al-Qabid reminds the believer of Allah’s attribute: the withholder."
+  },
+  {
+    "id": 22,
+    "arabic": "الْبَاسِط",
+    "transliteration": "Al-Basit",
+    "meaning": "The Expander",
+    "explanation": "Al-Basit reminds the believer of Allah’s attribute: the expander."
+  },
+  {
+    "id": 23,
+    "arabic": "الْخَافِض",
+    "transliteration": "Al-Khafid",
+    "meaning": "The Abaser",
+    "explanation": "Al-Khafid reminds the believer of Allah’s attribute: the abaser."
+  },
+  {
+    "id": 24,
+    "arabic": "الرَّافِع",
+    "transliteration": "Ar-Rafi",
+    "meaning": "The Exalter",
+    "explanation": "Ar-Rafi reminds the believer of Allah’s attribute: the exalter."
+  },
+  {
+    "id": 25,
+    "arabic": "الْمُعِزُّ",
+    "transliteration": "Al-Mu’izz",
+    "meaning": "The Honorer",
+    "explanation": "Al-Mu’izz reminds the believer of Allah’s attribute: the honorer."
+  },
+  {
+    "id": 26,
+    "arabic": "المُذِلُّ",
+    "transliteration": "Al-Mudhill",
+    "meaning": "The Humbler",
+    "explanation": "Al-Mudhill reminds the believer of Allah’s attribute: the humbler."
+  },
+  {
+    "id": 27,
+    "arabic": "السَّمِيع",
+    "transliteration": "As-Sami",
+    "meaning": "The All-Hearing",
+    "explanation": "As-Sami reminds the believer of Allah’s attribute: the all-hearing."
+  },
+  {
+    "id": 28,
+    "arabic": "الْبَصِير",
+    "transliteration": "Al-Basir",
+    "meaning": "The All-Seeing",
+    "explanation": "Al-Basir reminds the believer of Allah’s attribute: the all-seeing."
+  },
+  {
+    "id": 29,
+    "arabic": "الْحَكَم",
+    "transliteration": "Al-Hakam",
+    "meaning": "The Judge",
+    "explanation": "Al-Hakam reminds the believer of Allah’s attribute: the judge."
+  },
+  {
+    "id": 30,
+    "arabic": "الْعَدْل",
+    "transliteration": "Al-Adl",
+    "meaning": "The Just",
+    "explanation": "Al-Adl reminds the believer of Allah’s attribute: the just."
+  },
+  {
+    "id": 31,
+    "arabic": "اللَّطِيف",
+    "transliteration": "Al-Latif",
+    "meaning": "The Subtle",
+    "explanation": "Al-Latif reminds the believer of Allah’s attribute: the subtle."
+  },
+  {
+    "id": 32,
+    "arabic": "الْخَبِير",
+    "transliteration": "Al-Khabir",
+    "meaning": "The All-Aware",
+    "explanation": "Al-Khabir reminds the believer of Allah’s attribute: the all-aware."
+  },
+  {
+    "id": 33,
+    "arabic": "الْحَلِيم",
+    "transliteration": "Al-Halim",
+    "meaning": "The Forbearing",
+    "explanation": "Al-Halim reminds the believer of Allah’s attribute: the forbearing."
+  },
+  {
+    "id": 34,
+    "arabic": "الْعَظِيم",
+    "transliteration": "Al-Azim",
+    "meaning": "The Magnificent",
+    "explanation": "Al-Azim reminds the believer of Allah’s attribute: the magnificent."
+  },
+  {
+    "id": 35,
+    "arabic": "الْغَفُور",
+    "transliteration": "Al-Ghafur",
+    "meaning": "The Great Forgiver",
+    "explanation": "Al-Ghafur reminds the believer of Allah’s attribute: the great forgiver."
+  },
+  {
+    "id": 36,
+    "arabic": "الشَّكُور",
+    "transliteration": "Ash-Shakur",
+    "meaning": "The Appreciative",
+    "explanation": "Ash-Shakur reminds the believer of Allah’s attribute: the appreciative."
+  },
+  {
+    "id": 37,
+    "arabic": "الْعَلِي",
+    "transliteration": "Al-Ali",
+    "meaning": "The Most High",
+    "explanation": "Al-Ali reminds the believer of Allah’s attribute: the most high."
+  },
+  {
+    "id": 38,
+    "arabic": "الْكَبِير",
+    "transliteration": "Al-Kabir",
+    "meaning": "The Great",
+    "explanation": "Al-Kabir reminds the believer of Allah’s attribute: the great."
+  },
+  {
+    "id": 39,
+    "arabic": "الْحَفِيظ",
+    "transliteration": "Al-Hafiz",
+    "meaning": "The Preserver",
+    "explanation": "Al-Hafiz reminds the believer of Allah’s attribute: the preserver."
+  },
+  {
+    "id": 40,
+    "arabic": "المُقِيت",
+    "transliteration": "Al-Muqit",
+    "meaning": "The Sustainer",
+    "explanation": "Al-Muqit reminds the believer of Allah’s attribute: the sustainer."
+  },
+  {
+    "id": 41,
+    "arabic": "الْحَسِيب",
+    "transliteration": "Al-Hasib",
+    "meaning": "The Reckoner",
+    "explanation": "Al-Hasib reminds the believer of Allah’s attribute: the reckoner."
+  },
+  {
+    "id": 42,
+    "arabic": "الْجَلِيل",
+    "transliteration": "Al-Jalil",
+    "meaning": "The Majestic",
+    "explanation": "Al-Jalil reminds the believer of Allah’s attribute: the majestic."
+  },
+  {
+    "id": 43,
+    "arabic": "الْكَرِيم",
+    "transliteration": "Al-Karim",
+    "meaning": "The Generous",
+    "explanation": "Al-Karim reminds the believer of Allah’s attribute: the generous."
+  },
+  {
+    "id": 44,
+    "arabic": "الرَّقِيب",
+    "transliteration": "Ar-Raqib",
+    "meaning": "The Watchful",
+    "explanation": "Ar-Raqib reminds the believer of Allah’s attribute: the watchful."
+  },
+  {
+    "id": 45,
+    "arabic": "الْمُجِيب",
+    "transliteration": "Al-Mujib",
+    "meaning": "The Responsive",
+    "explanation": "Al-Mujib reminds the believer of Allah’s attribute: the responsive."
+  },
+  {
+    "id": 46,
+    "arabic": "الْوَاسِع",
+    "transliteration": "Al-Wasi",
+    "meaning": "The Vast",
+    "explanation": "Al-Wasi reminds the believer of Allah’s attribute: the vast."
+  },
+  {
+    "id": 47,
+    "arabic": "الْحَكِيم",
+    "transliteration": "Al-Hakim",
+    "meaning": "The Wise",
+    "explanation": "Al-Hakim reminds the believer of Allah’s attribute: the wise."
+  },
+  {
+    "id": 48,
+    "arabic": "الْوَدُود",
+    "transliteration": "Al-Wadud",
+    "meaning": "The Loving",
+    "explanation": "Al-Wadud reminds the believer of Allah’s attribute: the loving."
+  },
+  {
+    "id": 49,
+    "arabic": "الْمَجِيد",
+    "transliteration": "Al-Majid",
+    "meaning": "The Glorious",
+    "explanation": "Al-Majid reminds the believer of Allah’s attribute: the glorious."
+  },
+  {
+    "id": 50,
+    "arabic": "الْبَاعِث",
+    "transliteration": "Al-Baith",
+    "meaning": "The Resurrector",
+    "explanation": "Al-Baith reminds the believer of Allah’s attribute: the resurrector."
+  },
+  {
+    "id": 51,
+    "arabic": "الشَّهِيد",
+    "transliteration": "Ash-Shahid",
+    "meaning": "The Witness",
+    "explanation": "Ash-Shahid reminds the believer of Allah’s attribute: the witness."
+  },
+  {
+    "id": 52,
+    "arabic": "الْحَق",
+    "transliteration": "Al-Haqq",
+    "meaning": "The Truth",
+    "explanation": "Al-Haqq reminds the believer of Allah’s attribute: the truth."
+  },
+  {
+    "id": 53,
+    "arabic": "الْوَكِيل",
+    "transliteration": "Al-Wakil",
+    "meaning": "The Trustee",
+    "explanation": "Al-Wakil reminds the believer of Allah’s attribute: the trustee."
+  },
+  {
+    "id": 54,
+    "arabic": "الْقَوِي",
+    "transliteration": "Al-Qawiyy",
+    "meaning": "The Strong",
+    "explanation": "Al-Qawiyy reminds the believer of Allah’s attribute: the strong."
+  },
+  {
+    "id": 55,
+    "arabic": "الْمَتِين",
+    "transliteration": "Al-Matin",
+    "meaning": "The Firm",
+    "explanation": "Al-Matin reminds the believer of Allah’s attribute: the firm."
+  },
+  {
+    "id": 56,
+    "arabic": "الْوَلِي",
+    "transliteration": "Al-Wali",
+    "meaning": "The Protecting Friend",
+    "explanation": "Al-Wali reminds the believer of Allah’s attribute: the protecting friend."
+  },
+  {
+    "id": 57,
+    "arabic": "الْحَمِيد",
+    "transliteration": "Al-Hamid",
+    "meaning": "The Praiseworthy",
+    "explanation": "Al-Hamid reminds the believer of Allah’s attribute: the praiseworthy."
+  },
+  {
+    "id": 58,
+    "arabic": "الْمُحْصِي",
+    "transliteration": "Al-Muhsi",
+    "meaning": "The Enumerator",
+    "explanation": "Al-Muhsi reminds the believer of Allah’s attribute: the enumerator."
+  },
+  {
+    "id": 59,
+    "arabic": "الْمُبْدِئ",
+    "transliteration": "Al-Mubdi",
+    "meaning": "The Initiator",
+    "explanation": "Al-Mubdi reminds the believer of Allah’s attribute: the initiator."
+  },
+  {
+    "id": 60,
+    "arabic": "الْمُعِيد",
+    "transliteration": "Al-Muid",
+    "meaning": "The Restorer",
+    "explanation": "Al-Muid reminds the believer of Allah’s attribute: the restorer."
+  },
+  {
+    "id": 61,
+    "arabic": "الْمُحْيِي",
+    "transliteration": "Al-Muhyi",
+    "meaning": "The Giver of Life",
+    "explanation": "Al-Muhyi reminds the believer of Allah’s attribute: the giver of life."
+  },
+  {
+    "id": 62,
+    "arabic": "الْمُمِيت",
+    "transliteration": "Al-Mumit",
+    "meaning": "The Giver of Death",
+    "explanation": "Al-Mumit reminds the believer of Allah’s attribute: the giver of death."
+  },
+  {
+    "id": 63,
+    "arabic": "الْحَي",
+    "transliteration": "Al-Hayy",
+    "meaning": "The Ever-Living",
+    "explanation": "Al-Hayy reminds the believer of Allah’s attribute: the ever-living."
+  },
+  {
+    "id": 64,
+    "arabic": "الْقَيُّوم",
+    "transliteration": "Al-Qayyum",
+    "meaning": "The Self-Sustaining",
+    "explanation": "Al-Qayyum reminds the believer of Allah’s attribute: the self-sustaining."
+  },
+  {
+    "id": 65,
+    "arabic": "الْوَاجِد",
+    "transliteration": "Al-Wajid",
+    "meaning": "The Finder",
+    "explanation": "Al-Wajid reminds the believer of Allah’s attribute: the finder."
+  },
+  {
+    "id": 66,
+    "arabic": "الْمَاجِد",
+    "transliteration": "Al-Majid",
+    "meaning": "The Noble",
+    "explanation": "Al-Majid reminds the believer of Allah’s attribute: the noble."
+  },
+  {
+    "id": 67,
+    "arabic": "الْواحِد",
+    "transliteration": "Al-Wahid",
+    "meaning": "The One",
+    "explanation": "Al-Wahid reminds the believer of Allah’s attribute: the one."
+  },
+  {
+    "id": 68,
+    "arabic": "الصَّمَد",
+    "transliteration": "As-Samad",
+    "meaning": "The Eternal Refuge",
+    "explanation": "As-Samad reminds the believer of Allah’s attribute: the eternal refuge."
+  },
+  {
+    "id": 69,
+    "arabic": "الْقَادِر",
+    "transliteration": "Al-Qadir",
+    "meaning": "The Able",
+    "explanation": "Al-Qadir reminds the believer of Allah’s attribute: the able."
+  },
+  {
+    "id": 70,
+    "arabic": "الْمُقْتَدِر",
+    "transliteration": "Al-Muqtadir",
+    "meaning": "The Powerful",
+    "explanation": "Al-Muqtadir reminds the believer of Allah’s attribute: the powerful."
+  },
+  {
+    "id": 71,
+    "arabic": "الْمُقَدِّم",
+    "transliteration": "Al-Muqaddim",
+    "meaning": "The Expediter",
+    "explanation": "Al-Muqaddim reminds the believer of Allah’s attribute: the expediter."
+  },
+  {
+    "id": 72,
+    "arabic": "الْمُؤَخِّر",
+    "transliteration": "Al-Mu’akhkhir",
+    "meaning": "The Delayer",
+    "explanation": "Al-Mu’akhkhir reminds the believer of Allah’s attribute: the delayer."
+  },
+  {
+    "id": 73,
+    "arabic": "الأوَّل",
+    "transliteration": "Al-Awwal",
+    "meaning": "The First",
+    "explanation": "Al-Awwal reminds the believer of Allah’s attribute: the first."
+  },
+  {
+    "id": 74,
+    "arabic": "الآخِر",
+    "transliteration": "Al-Akhir",
+    "meaning": "The Last",
+    "explanation": "Al-Akhir reminds the believer of Allah’s attribute: the last."
+  },
+  {
+    "id": 75,
+    "arabic": "الظَّاهِر",
+    "transliteration": "Az-Zahir",
+    "meaning": "The Manifest",
+    "explanation": "Az-Zahir reminds the believer of Allah’s attribute: the manifest."
+  },
+  {
+    "id": 76,
+    "arabic": "الْبَاطِن",
+    "transliteration": "Al-Batin",
+    "meaning": "The Hidden",
+    "explanation": "Al-Batin reminds the believer of Allah’s attribute: the hidden."
+  },
+  {
+    "id": 77,
+    "arabic": "الْوَالِي",
+    "transliteration": "Al-Wali",
+    "meaning": "The Governor",
+    "explanation": "Al-Wali reminds the believer of Allah’s attribute: the governor."
+  },
+  {
+    "id": 78,
+    "arabic": "الْمُتَعَالِي",
+    "transliteration": "Al-Muta’ali",
+    "meaning": "The Most Exalted",
+    "explanation": "Al-Muta’ali reminds the believer of Allah’s attribute: the most exalted."
+  },
+  {
+    "id": 79,
+    "arabic": "الْبَرُّ",
+    "transliteration": "Al-Barr",
+    "meaning": "The Source of Goodness",
+    "explanation": "Al-Barr reminds the believer of Allah’s attribute: the source of goodness."
+  },
+  {
+    "id": 80,
+    "arabic": "التَّوَّاب",
+    "transliteration": "At-Tawwab",
+    "meaning": "The Acceptor of Repentance",
+    "explanation": "At-Tawwab reminds the believer of Allah’s attribute: the acceptor of repentance."
+  },
+  {
+    "id": 81,
+    "arabic": "الْمُنْتَقِم",
+    "transliteration": "Al-Muntaqim",
+    "meaning": "The Avenger",
+    "explanation": "Al-Muntaqim reminds the believer of Allah’s attribute: the avenger."
+  },
+  {
+    "id": 82,
+    "arabic": "العَفُو",
+    "transliteration": "Al-Afuww",
+    "meaning": "The Pardoner",
+    "explanation": "Al-Afuww reminds the believer of Allah’s attribute: the pardoner."
+  },
+  {
+    "id": 83,
+    "arabic": "الرَّؤُوف",
+    "transliteration": "Ar-Ra’uf",
+    "meaning": "The Kind",
+    "explanation": "Ar-Ra’uf reminds the believer of Allah’s attribute: the kind."
+  },
+  {
+    "id": 84,
+    "arabic": "مَالِكُ الْمُلْك",
+    "transliteration": "Malik-ul-Mulk",
+    "meaning": "Owner of Sovereignty",
+    "explanation": "Malik-ul-Mulk reminds the believer of Allah’s attribute: owner of sovereignty."
+  },
+  {
+    "id": 85,
+    "arabic": "ذُو الْجَلَالِ وَالإكْرَام",
+    "transliteration": "Dhul-Jalali wal-Ikram",
+    "meaning": "Lord of Majesty and Honor",
+    "explanation": "Dhul-Jalali wal-Ikram reminds the believer of Allah’s attribute: lord of majesty and honor."
+  },
+  {
+    "id": 86,
+    "arabic": "الْمُقْسِط",
+    "transliteration": "Al-Muqsit",
+    "meaning": "The Equitable",
+    "explanation": "Al-Muqsit reminds the believer of Allah’s attribute: the equitable."
+  },
+  {
+    "id": 87,
+    "arabic": "الْجَامِع",
+    "transliteration": "Al-Jami",
+    "meaning": "The Gatherer",
+    "explanation": "Al-Jami reminds the believer of Allah’s attribute: the gatherer."
+  },
+  {
+    "id": 88,
+    "arabic": "الْغَنِي",
+    "transliteration": "Al-Ghani",
+    "meaning": "The Self-Sufficient",
+    "explanation": "Al-Ghani reminds the believer of Allah’s attribute: the self-sufficient."
+  },
+  {
+    "id": 89,
+    "arabic": "الْمُغْنِي",
+    "transliteration": "Al-Mughni",
+    "meaning": "The Enricher",
+    "explanation": "Al-Mughni reminds the believer of Allah’s attribute: the enricher."
+  },
+  {
+    "id": 90,
+    "arabic": "الْمَانِع",
+    "transliteration": "Al-Mani",
+    "meaning": "The Preventer",
+    "explanation": "Al-Mani reminds the believer of Allah’s attribute: the preventer."
+  },
+  {
+    "id": 91,
+    "arabic": "الضَّار",
+    "transliteration": "Ad-Darr",
+    "meaning": "The Distresser",
+    "explanation": "Ad-Darr reminds the believer of Allah’s attribute: the distresser."
+  },
+  {
+    "id": 92,
+    "arabic": "النَّافِع",
+    "transliteration": "An-Nafi",
+    "meaning": "The Benefactor",
+    "explanation": "An-Nafi reminds the believer of Allah’s attribute: the benefactor."
+  },
+  {
+    "id": 93,
+    "arabic": "النُّور",
+    "transliteration": "An-Nur",
+    "meaning": "The Light",
+    "explanation": "An-Nur reminds the believer of Allah’s attribute: the light."
+  },
+  {
+    "id": 94,
+    "arabic": "الْهَادِي",
+    "transliteration": "Al-Hadi",
+    "meaning": "The Guide",
+    "explanation": "Al-Hadi reminds the believer of Allah’s attribute: the guide."
+  },
+  {
+    "id": 95,
+    "arabic": "الْبَدِيع",
+    "transliteration": "Al-Badi",
+    "meaning": "The Incomparable Originator",
+    "explanation": "Al-Badi reminds the believer of Allah’s attribute: the incomparable originator."
+  },
+  {
+    "id": 96,
+    "arabic": "الْبَاقِي",
+    "transliteration": "Al-Baqi",
+    "meaning": "The Everlasting",
+    "explanation": "Al-Baqi reminds the believer of Allah’s attribute: the everlasting."
+  },
+  {
+    "id": 97,
+    "arabic": "الْوَارِث",
+    "transliteration": "Al-Warith",
+    "meaning": "The Inheritor",
+    "explanation": "Al-Warith reminds the believer of Allah’s attribute: the inheritor."
+  },
+  {
+    "id": 98,
+    "arabic": "الرَّشِيد",
+    "transliteration": "Ar-Rashid",
+    "meaning": "The Guide to Rightness",
+    "explanation": "Ar-Rashid reminds the believer of Allah’s attribute: the guide to rightness."
+  },
+  {
+    "id": 99,
+    "arabic": "الصَّبُور",
+    "transliteration": "As-Sabur",
+    "meaning": "The Patient",
+    "explanation": "As-Sabur reminds the believer of Allah’s attribute: the patient."
+  }
+]

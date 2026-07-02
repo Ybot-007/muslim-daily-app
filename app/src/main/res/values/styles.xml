@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.MuslimDaily" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#0E4D3A</item>
+    </style>
+
+    <style name="Theme.MuslimDaily.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.MuslimDaily</item>
+    </style>
+</resources>

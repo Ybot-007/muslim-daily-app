@@ -1,0 +1,46 @@
+[
+  {
+    "id": "bukhari-1-1-1",
+    "collection": "Sahih al-Bukhari",
+    "bookNumber": 1,
+    "bookTitle": "Revelation",
+    "chapterNumber": 1,
+    "chapterTitle": "How revelation began",
+    "hadithNumber": "1",
+    "arabicText": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
+    "englishTranslation": "Actions are judged by intentions, and every person will have only what they intended."
+  },
+  {
+    "id": "bukhari-1-2-2",
+    "collection": "Sahih al-Bukhari",
+    "bookNumber": 1,
+    "bookTitle": "Revelation",
+    "chapterNumber": 2,
+    "chapterTitle": "Faith and revelation",
+    "hadithNumber": "2",
+    "arabicText": "كَانَ رَسُولُ اللَّهِ ﷺ أَجْوَدَ النَّاسِ",
+    "englishTranslation": "The Messenger of Allah, peace be upon him, was the most generous of people."
+  },
+  {
+    "id": "bukhari-2-1-8",
+    "collection": "Sahih al-Bukhari",
+    "bookNumber": 2,
+    "bookTitle": "Faith",
+    "chapterNumber": 1,
+    "chapterTitle": "Islam is built on five",
+    "hadithNumber": "8",
+    "arabicText": "بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ",
+    "englishTranslation": "Islam is built upon five pillars."
+  },
+  {
+    "id": "bukhari-3-1-56",
+    "collection": "Sahih al-Bukhari",
+    "bookNumber": 3,
+    "bookTitle": "Knowledge",
+    "chapterNumber": 1,
+    "chapterTitle": "The virtue of knowledge",
+    "hadithNumber": "56",
+    "arabicText": "مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ",
+    "englishTranslation": "When Allah intends good for someone, He gives them understanding of the religion."
+  }
+]
